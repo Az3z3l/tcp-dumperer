@@ -1,7 +1,7 @@
 import requests
 import os
 
-urla="http://34.68.14.102"
+urla="http://34.68.14.102:5000"
 timer=300
 url=urla+"/uploader"
 
