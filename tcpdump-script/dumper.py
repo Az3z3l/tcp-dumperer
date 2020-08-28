@@ -2,7 +2,7 @@ import requests
 import os
 
 urla="http://34.121.145.32"
-timer=300
+timer=200
 url=urla+"/uploader"
 
 file_number=0
